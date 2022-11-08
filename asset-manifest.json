@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/EBank/static/css/main.f0180d2a.chunk.css",
+    "main.js": "/EBank/static/js/main.4c9a5259.chunk.js",
+    "main.js.map": "/EBank/static/js/main.4c9a5259.chunk.js.map",
+    "runtime-main.js": "/EBank/static/js/runtime-main.01f4ead1.js",
+    "runtime-main.js.map": "/EBank/static/js/runtime-main.01f4ead1.js.map",
+    "static/js/2.41f8d69a.chunk.js": "/EBank/static/js/2.41f8d69a.chunk.js",
+    "static/js/2.41f8d69a.chunk.js.map": "/EBank/static/js/2.41f8d69a.chunk.js.map",
+    "index.html": "/EBank/index.html",
+    "static/css/main.f0180d2a.chunk.css.map": "/EBank/static/css/main.f0180d2a.chunk.css.map",
+    "static/js/2.41f8d69a.chunk.js.LICENSE.txt": "/EBank/static/js/2.41f8d69a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01f4ead1.js",
+    "static/js/2.41f8d69a.chunk.js",
+    "static/css/main.f0180d2a.chunk.css",
+    "static/js/main.4c9a5259.chunk.js"
+  ]
+}
